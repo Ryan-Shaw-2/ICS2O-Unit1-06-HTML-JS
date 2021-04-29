@@ -1,0 +1,22 @@
+/* Created by: Ryan-Shaw-2
+* Created on: Apr 2021
+* This CSS file defines the style for index.html ICS2O-Unit1-03-HTML-JS
+*/
+
+body {
+  background-color: rgb(102, 120, 228);
+}
+
+h1 {
+  background-color: darkblue;
+  color: white;
+  padding: 30px;
+  font-family: serif;
+  text-align: center;
+}
+
+p {
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+}

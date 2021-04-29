@@ -1,0 +1,16 @@
+/* Created by: Ryan-Shaw-2
+* Created on: Apr 2021
+* This CSS file defines the style for index.html ICS2O-Unit1-03-HTML-JS
+*/
+
+body {
+  background-color: rgb(102, 120, 228);
+}
+
+#myheader {
+  background-color: rgb(7, 213, 250);
+  color: rgb(14, 17, 247);
+  padding: 25px;
+  text-align: center;
+  font-family: fantasy;
+}
